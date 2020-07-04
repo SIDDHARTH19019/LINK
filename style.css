@@ -1,0 +1,28 @@
+.full-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+}
+
+
+h1 {
+    color: green;
+}
+
+
+.logo {
+    height: 100px;
+}
+
+#logo-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    display: inline;
+}
+
+
